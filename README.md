@@ -42,10 +42,24 @@
 </p>
 
 ---
+<h3 align="center">MY ACTIVITY</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tavadur&show_icons=true&theme=dracula" />
-  </a>
+  </a> </br>
+  <p align="center">
+  <h6>ISSUES WORKAROUNDS</h6>
+  <ul>
+    <li>PrimeNG v8.x
+      <ul>
+        <li><a href="https://github.com/primefaces/primeng/issues/8302#issuecomment-584796874">Issue in Carousel component - on mobile</a></li>
+        <li><a href="https://github.com/primefaces/primeng/issues/8314#issuecomment-600148460">Prevent ignoring special characters while filtering</a></li>
+      </ul>
+    </li>
+  </ul>
+  </p>
 </p>
 
 ---
+
+
